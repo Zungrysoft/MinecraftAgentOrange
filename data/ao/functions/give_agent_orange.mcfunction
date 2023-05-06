@@ -1,0 +1,1 @@
+give @p lingering_potion{CustomPotionColor:15758336,display:{Name:'[{"text":"Agent Orange","italic":false,"color":"f07400"}]',Lore:['[{"text":"Destroys nearby plant life","italic":false,"color":"blue"}]']},CustomPotionEffects:[{Id:31,Duration:10,Amplifier:14,ShowParticles:0b,ShowIcon:0b}]} 1

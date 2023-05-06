@@ -1,0 +1,8 @@
+{
+    "condition": "minecraft:entity_properties",
+    "entity": "this",
+    "predicate": {
+      "nbt": "{Effects:[{Id:31,Amplifier:14b}]}"
+    }
+  }
+  

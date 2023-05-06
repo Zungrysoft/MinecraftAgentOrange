@@ -5,7 +5,7 @@ kill @s
 execute as @e[type=minecraft:creeper,distance=0..5] run damage @s 100 minecraft:starve by @p
 
 # Apply poison
-effect give @e[distance=0..5] minecraft:poison 30 1
+effect give @e[distance=0..4] minecraft:poison 15 1
 
 # Create the block-breaking entity
 summon minecraft:marker ~ ~ ~ {Tags:["agent_orange_breaker"]}

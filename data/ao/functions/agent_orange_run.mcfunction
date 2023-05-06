@@ -5,7 +5,7 @@ kill @s
 execute as @e[type=minecraft:creeper,distance=0..5] run damage @s 100 minecraft:starve by @p
 
 # Kill other plant mobs
-execute as @e[tag=plant_based,distance=0..5] run damage @s 100 minecraft:starve by @p
+execute as @e[tag=plant,distance=0..5] run damage @s 100 minecraft:starve by @p
 
 # Apply poison
 effect give @e[distance=0..4] minecraft:poison 15 1
